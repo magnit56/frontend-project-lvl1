@@ -16,3 +16,5 @@
 <img src="images/brain-gcd.gif" />
 <h2>Brain Progression</h2>
 <img src="images/brain-progression.gif" />
+<h2>Brain Prime</h2>
+<img src="images/brain-prime.gif" />
