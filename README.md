@@ -14,3 +14,5 @@
 <img src="images/brain-calc.gif" />
 <h2>Brain Gcd</h2>
 <img src="images/brain-gcd.gif" />
+<h2>Brain Progression</h2>
+<img src="images/brain-progression.gif" />
