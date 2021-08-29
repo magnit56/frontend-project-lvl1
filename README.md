@@ -10,3 +10,5 @@
 <h1>Usage</h1>
 <h2>Brain Even</h2>
 <img src="images/brain-even.gif" />
+<h2>Brain Calc</h2>
+<img src="images/brain-calc.gif" />
